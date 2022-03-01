@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters the one to his Excellency the Lord Fairfax, the other to Lieutenant General Cromwell, from the Commissioners of the kingdom of Scotland now residing at London.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05133</idno>
+            <idno type="STC">Wing S1002L</idno>
+            <idno type="STC">ESTC R183815</idno>
+            <idno type="EEBO-CITATION">53981703</idno>
+            <idno type="OCLC">ocm 53981703</idno>
+            <idno type="VID">180324</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180324)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters the one to his Excellency the Lord Fairfax, the other to Lieutenant General Cromwell, from the Commissioners of the kingdom of Scotland now residing at London.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>Lothian, William Kerr, Earl of, 1605?-1675.</author>
+                  <author>Cheisly, John.</author>
+                  <author>Glendinning, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letters.</note>
+                  <note>Letters signed: Lothian, John Chiesly, William Glendoning.</note>
+                  <note>Dated according to Lady-Day dating.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Scotland --  History --  1642-1649 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180324:1"/>
+            <!-- PDF PAGE 22 -->
+            <head>TVVO LETTERS The one to his Excellency the LORD FAIRFAX The other to LIEUTENANT GENERAL <hi>CROMWELL,</hi> From the Commiſsioners of the Kingdom of <hi>Scotland</hi> now reſiding at LONDON.</head>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Excellency,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">W</seg>E have divers times waited on you, to ſolicite your endeavous for preſervation of his Majeſties Perſon. And now having received particular directions from the Eſtates of the Parliament of <hi>Scotland,</hi> to make Application to your Excellency for the ſame end: We do in their names earneſtly deſire and intreat, That you will take into ſerious conſideration, that the Kingdom of <hi>Scotland</hi> hath undoubted intereſt in his Majeſties Perſon; And how hard a thing it is to proceed againſt their King, not only without, but againſt their advice and conſent; That his Perſon was intruſted by that Kingdom to the Honourable Houſe of Parliament; And how much it will reflect upon the Honour of <hi>Scotland,</hi> and the Faith of <hi>England</hi> to take away his life. Be pleaſed alſo to remember, the many ties and bands of love and friendſhip, between the Kingdoms; Their ſolemn Engagements in one Cauſe and Covenant; And the ma<g ref="char:EOLhyphen"/>ny Obligations, and mutuall good Offices which have paſſed betwixt them and betwixt the Kingdom of <hi>Scotland,</hi> and the Forces under your Command. Conſider what an unſetled peace it is like to prove, which ſhall have its foundation laid in the blood of the King; what dangerous evils, and grievous calamities it may bring upon us and our Poſterity; what reproach upon Religion, and the work of Reformation; And what infamy abroad in other Nations. And let it never be recorded to future ages, that you have been wanting in your duty, at ſuch a time as this. But according to the eminency of your place, honour and dignity, and the great<g ref="char:EOLhyphen"/>neſs of your intereſt, improve this preſent opportunity, by all lawfull wayes and means, to prevent the taking away of his Majeſties life; wherein alſo, we do earneſtly entreat the concurrence of your Counſell of War. And ſo we reſt</p>
+                  <closer>
+                     <signed>Your Excellencies moſt humble Servants, 
+<list>
+                           <item>LOTHIAN,</item>
+                           <item>JOHN CHIESLY,</item>
+                           <item>WILLIAM GLENDONING.</item>
+                        </list>
+                     </signed>
+                     <dateline>Covent Garden <date>the 29. of <hi>January</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>For his Excellency the Lord <hi>Fairfax, &amp;c.</hi>
+                     </p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">W</seg>E have upon ſeverall occaſions, earneſtly ſolicited you, to contribute your beſt endeavours, for preſervation of his Majeſties Perſon; and this day we have been thrice ſeeking you, twice at your lodging, and once elſewhere, but miſſed the opportunity of meeting with you; whereof, we were very deſirous; So much the more, That we have received the Commands of the Eſtates of the Parliament of <hi>Scotland</hi> to wait upon you; and earneſtly to intreat your concurrence and aſsiſtance, for preventing the taking away of his Majeſties life, as we have alſo written in a Letter to his Excellency, which he will communicate unto you: Sir, you have been a witneſſe, both formerly and of late, of the reall affection and tender reſpect, which all the wel-affected of the Kingdom of <hi>Scotland</hi> have to the honour and welfare of <hi>England;</hi> And how zealous they have manifeſted themſelves, both by their actions and ſufferings, to preſerve the rights and intereſts of this Kingdom. Wherefore, we have the better ground to hope, That you will uſe your endeavours, That the right and intereſt of the Kingdom of <hi>Scotland</hi> in his Majeſtie may be duly conſidered: And tender regard had to their ho<g ref="char:EOLhyphen"/>nour, who truſted their Brethren of this Kingdom, with the preſervation of his Perſon: We do therefore make it our earneſt re<g ref="char:EOLhyphen"/>queſt to you in their names, to interpoſe and to improve your intereſt and power (which we know to be very great) for preventing the taking away of his Majeſties life; which if you ſhall be pleaſed to do, It will be highly accompted of by the Parliament of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> and be looked upon as a ſpeciall Obligation, and an addition to all your former kindeneſſe and reſpects. We ſhall not need to adde any argument, as from our ſelves; but that it would be a Teſtimony that we have not been wanting in our duty; And enable us to give evidence to the Kingdom of <hi>Scotland,</hi> that we have been faithfull in the diſcharge of our truſt. And ſo we reſt</p>
+                  <closer>
+                     <signed>Your moſt humble Servants, <hi>Sic Subſcribitur,</hi> 
+                        <list>
+                           <item>LOTHIAN.</item>
+                           <item>JO. CHIESLY,</item>
+                           <item>W. GLENDONING.</item>
+                        </list>
+                     </signed>
+                     <dateline>Covent Garden <date>the 29. of <hi>January,</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>For the Right Honourable Lieutenant General CROMWELL.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBVRGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent MAjESTY, 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
